@@ -6,6 +6,7 @@ public class Main {
 	// write your code here
         System.out.println( "Hello Vistula");
         System.out.println( "Vistula 2");
+        System.out.println("HELLO VISTULA");
     }
 
 }
